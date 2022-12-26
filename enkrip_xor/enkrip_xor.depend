@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1672076435 source:c:\users\asus\onedrive\gambar\dokumen\tugas kripto xor\enkrip_xor\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+
